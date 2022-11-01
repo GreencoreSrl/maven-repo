@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <groupId>apex</groupId>
-  <artifactId>ApexSerialEcr</artifactId>
+  <artifactId>ApexSerialEcr.j4n</artifactId>
   <version>1.0.0</version>
   <description>POM was created from install:install-file</description>
 </project>
